@@ -1,0 +1,8 @@
+{
+  "name": "NO ESCAPE",
+  "description": "Some places don't want you to leave. A 2D top-down survival horror adventure set in the abandoned town of Hollow Creek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
